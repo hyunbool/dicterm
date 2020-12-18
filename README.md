@@ -6,6 +6,7 @@
 |용어|의미|
 |------|---|
 |Permutation invariant(<-> Permutation equivariant)|입력 벡터요소 순서와 상관 없이 같은 출력 생성하는 모델(eg. MLP)|
+|Piece-wise Constant Function|계단 함수|
 |Universal Approximation Theorem|1개의 히든레이어를 가진 신경망 네트워크를 이용해 어떤 함수도 근사시킬 수 있다는 이론|
 |테스트1|테스트2|
 
