@@ -5,6 +5,7 @@
 
 |용어|의미|
 |------|---|
+|Erd ős-Rényi model|가장 간단한 랜덤 그래프 모델 중 하나로 고정된 확률값에 의해 각 간선이 독립적으로 정해지는 모델|
 |Permutation invariant(<-> Permutation equivariant)|입력 벡터요소 순서와 상관 없이 같은 출력 생성하는 모델(eg. MLP)|
 |Piece-wise Constant Function|계단 함수|
 |Universal Approximation Theorem|1개의 히든레이어를 가진 신경망 네트워크를 이용해 어떤 함수도 근사시킬 수 있다는 이론|
