@@ -5,6 +5,7 @@
 
 |용어|의미|
 |------|---|
+|Auto-encoder|입력-출력이 같도록 하는 구조, 입력값에 특별히 라벨이 있는 것이 아니라 입력값 그 자체가 정답|
 |Erd ős-Rényi model|가장 간단한 랜덤 그래프 모델 중 하나로 고정된 확률값에 의해 각 간선이 독립적으로 정해지는 모델|
 |Permutation invariant(<-> Permutation equivariant)|입력 벡터요소 순서와 상관 없이 같은 출력 생성하는 모델(eg. MLP)|
 |Piece-wise Constant Function|계단 함수|
