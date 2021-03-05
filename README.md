@@ -11,6 +11,7 @@
 |[Nucleus sampling](http://dsba.korea.ac.kr/seminar/?mod=document&uid=1345)|다음에 등장할 단어에 대한 확률을 계산한 다음, 그 확률을 내림차순으로 정렬한다. 이때 각 확률값의 합이 p 이상이 될 때 까지 단어들을 선택한 다음 샘플링|
 |Permutation invariant(<-> Permutation equivariant)|입력 벡터요소 순서와 상관 없이 같은 출력 생성하는 모델(eg. MLP)|
 |Piece-wise Constant Function|계단 함수|
+|Posterior|사후 확률<br/>- 베이즈 정리로 근사 가능|
 |Universal Approximation Theorem|신경망 네트워크를 이용해 어떤 함수도 근사시킬 수 있다는 이론|
 
 
