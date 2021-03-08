@@ -5,6 +5,7 @@
 
 |용어|의미|
 |------|---|
+|[Affinity Propagation](https://datascienceschool.net/03%20machine%20learning/16.05%20Affinity%20Propagation.html)|모든 데이터가 특정한 기준에 따라 자신을 대표할 대표 데이터를 선택|
 |Auto-encoder|입력-출력이 같도록 하는 구조, 입력값에 특별히 라벨이 있는 것이 아니라 입력값 그 자체가 정답|
 |Batch Learning(Offline Learning)|점진적으로 학습해나가는 것이 아닌, 가용 데이터를 모두 사용해 훈련시키는 방식<br/>- Online Learning: 데이터를 순차적으로, 또는 미니 배치 단위로 시스템을 학습시키는 방식|
 |Erd ős-Rényi model|가장 간단한 랜덤 그래프 모델 중 하나로 고정된 확률값에 의해 각 간선이 독립적으로 정해지는 모델|
